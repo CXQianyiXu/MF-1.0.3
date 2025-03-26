@@ -1,0 +1,13 @@
+{
+  "E0000": "\nWrong number of equal signs.",
+  "E0001": "\nNot followed by a space after an unknown number.",
+  "E0002": "\nIllegal characters.",
+  "E0003": "\nNo unknowns.",
+  "E0004": "\nAn operator after the equation.",
+  "E0005": "\nWrong number of division sign in the term.",
+  "E0006": "\nThe term has any operators.",
+  "E0007": "\nWrong character beside division sign.",
+  "E0008": "\nOperator error.",
+  "E0101": "The number of equations does not equal to the number of unknowns.",
+  "E0102": "Coefficient error."
+}
