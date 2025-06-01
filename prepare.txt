@@ -1,0 +1,6 @@
+Please write a system of linear equations.
+Do not put irrationals. Put fractions before the unknowns.
+Do not use decimals.
+Do not use the multiple sign and the pair of parentheses.
+Press Enter again to solve.
+Equations:
